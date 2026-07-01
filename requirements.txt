@@ -1,0 +1,20 @@
+# Core numerical/data stack
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.17.1
+
+# Plotting and notebook display
+matplotlib==3.10.9
+seaborn==0.13.2
+ipython==9.13.0
+
+# Machine learning / time-series modelling
+scikit-learn==1.7.2
+sktime==0.40.1
+numba==0.65.1
+torch==2.12.0
+
+# Utilities and file readers
+tqdm==4.67.3
+pendulum==3.2.0
+openpyxl==3.1.5
